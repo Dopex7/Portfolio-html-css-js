@@ -286,8 +286,6 @@ section {
 
   .about-pic {
     border-radius: 2rem;
-    height: 550px;
-    width:   600px;
   }
 
   .arrow {
@@ -313,7 +311,7 @@ section {
 
   .section__pic-container {
     height: 550px;
-    width: 550px;
+    width: 600px;
     margin: auto 0;
   }
 
